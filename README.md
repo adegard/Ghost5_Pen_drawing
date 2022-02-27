@@ -11,6 +11,9 @@ https://jtechphotonics.com/?page_id=1980
 How to install the plugin:
 https://youtu.be/CuWZWAfBsm8?t=213
 
+Use NC corrector to modify the gcode and adding header, footers:
+http://www.nc-corrector.inf.ua/index_EN.htm
+
 
 Pen holder:
 https://www.thingiverse.com/thing:3436158/files
