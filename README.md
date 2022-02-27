@@ -8,3 +8,9 @@ https://inkscape.org/release/all/windows/64-bit/msi/
 Inkscape Laser Tool Plug-in for this version:
 https://jtechphotonics.com/?page_id=1980
 
+How to install the plugin:
+https://youtu.be/CuWZWAfBsm8?t=213
+
+
+
+
