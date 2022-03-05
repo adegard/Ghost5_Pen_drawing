@@ -18,5 +18,9 @@ http://www.nc-corrector.inf.ua/index_EN.htm
 Pen holder:
 https://www.thingiverse.com/thing:3436158/files
 
+remove background
+https://www.remove.bg/
 
+vectoriser
+https://www.pngtosvg.com/art-vectoriser
 
