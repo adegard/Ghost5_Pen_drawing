@@ -41,3 +41,8 @@ upload in octoprint
 
 Drabot image converter
 https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
+
+****
+
+3D STL to 2d SVG
+https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
