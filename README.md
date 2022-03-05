@@ -24,3 +24,6 @@ https://www.remove.bg/
 vectoriser
 https://www.pngtosvg.com/art-vectoriser
 
+svg to stl
+https://svg2stl.com/
+
