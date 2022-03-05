@@ -1,7 +1,9 @@
 # Ghost5_Pen_drawing
 Pen drawing with my Ghost 5 3d printer
+
 https://www.instructables.com/Laser-Plotter-Sending-the-Drawing-in-GCODE/
 https://www.instructables.com/Draw-With-Your-3D-Printer-Plotter/
+https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/
 ****
 install Inksape 0.92 version:
 https://inkscape.org/release/all/windows/64-bit/msi/
