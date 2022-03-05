@@ -31,3 +31,8 @@ https://svg2stl.com/
 slice with astroprint
 https://cloud.astroprint.com/
 ****
+send to CNC
+https://github.com/vlachoudis/bCNC
+
+****
+upload in octoprint
