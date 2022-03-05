@@ -1,6 +1,7 @@
 # Ghost5_Pen_drawing
 Pen drawing with my Ghost 5 3d printer
 https://www.instructables.com/Laser-Plotter-Sending-the-Drawing-in-GCODE/
+https://www.instructables.com/Draw-With-Your-3D-Printer-Plotter/
 ****
 install Inksape 0.92 version:
 https://inkscape.org/release/all/windows/64-bit/msi/
@@ -17,7 +18,7 @@ http://www.nc-corrector.inf.ua/index_EN.htm
 
 Pen holder:
 https://www.thingiverse.com/thing:3436158/files
-
+****
 remove background
 https://www.remove.bg/
 
@@ -29,3 +30,4 @@ https://svg2stl.com/
 
 slice with astroprint
 https://cloud.astroprint.com/
+****
