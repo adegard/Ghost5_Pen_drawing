@@ -1,7 +1,7 @@
 # Ghost5_Pen_drawing
 Pen drawing with my Ghost 5 3d printer
-
-
+https://www.instructables.com/Laser-Plotter-Sending-the-Drawing-in-GCODE/
+****
 install Inksape 0.92 version:
 https://inkscape.org/release/all/windows/64-bit/msi/
 
@@ -13,7 +13,7 @@ https://youtu.be/CuWZWAfBsm8?t=213
 
 Use NC corrector to modify the gcode and adding header, footers:
 http://www.nc-corrector.inf.ua/index_EN.htm
-
+****
 
 Pen holder:
 https://www.thingiverse.com/thing:3436158/files
