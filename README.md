@@ -27,3 +27,5 @@ https://www.pngtosvg.com/art-vectoriser
 svg to stl
 https://svg2stl.com/
 
+slice with astroprint
+https://cloud.astroprint.com/
