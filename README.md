@@ -38,7 +38,7 @@ https://github.com/vlachoudis/bCNC
 
 ****
 upload in octoprint
-
+https://community.octoprint.org/t/octoprint-can-draw-too/2457
 ****
 
 Drabot image converter
