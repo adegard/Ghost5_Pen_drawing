@@ -40,7 +40,9 @@ upload in octoprint
 ****
 
 Drabot image converter
+
 https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
+https://github.com/SonarSonic/DrawingBotV3
 
 ****
 
