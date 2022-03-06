@@ -37,6 +37,9 @@ https://www.pngtosvg.com/
 svg to stl
 https://svg2stl.com/
 
+stl viewer
+https://www.viewstl.com/#!
+
 slice with astroprint
 https://cloud.astroprint.com/
 ****
