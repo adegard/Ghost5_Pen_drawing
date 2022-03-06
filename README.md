@@ -2,8 +2,11 @@
 Pen drawing with my Ghost 5 3d printer
 
 https://www.instructables.com/Laser-Plotter-Sending-the-Drawing-in-GCODE/
+
 https://www.instructables.com/Draw-With-Your-3D-Printer-Plotter/
+
 https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/
+
 https://matthewrayfield.com/articles/how-to-use-a-3d-printer-as-a-pen-plotter/
 ****
 install Inksape 0.92 version:
@@ -45,9 +48,12 @@ https://community.octoprint.org/t/octoprint-can-draw-too/2457
 Drabot image converter
 
 https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
+
 https://github.com/SonarSonic/DrawingBotV3
+
 https://drawingbots.net/knowledge/tools
 
+https://github.com/evildmp/linedraw/
 ****
 
 3D STL to 2d SVG
