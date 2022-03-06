@@ -31,6 +31,9 @@ https://www.remove.bg/
 vectoriser
 https://www.pngtosvg.com/art-vectoriser
 
+png to svg 
+https://www.pngtosvg.com/
+
 svg to stl
 https://svg2stl.com/
 
