@@ -34,6 +34,9 @@ https://www.pngtosvg.com/art-vectoriser
 png to svg 
 https://www.pngtosvg.com/
 
+svg to gcode
+https://laserweb.yurl.ch/
+
 svg to stl
 https://svg2stl.com/
 
@@ -55,9 +58,13 @@ Drabot image converter
 
 https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
 
+Image trasnformation
+
 https://github.com/SonarSonic/DrawingBotV3
 
 https://drawingbots.net/knowledge/tools
+
+Image vectorizer, hashing, simplify
 
 https://github.com/evildmp/linedraw/
 ****
